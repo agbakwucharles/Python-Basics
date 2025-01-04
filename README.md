@@ -39,6 +39,4 @@ Welcome to the Python Basics Course! This course is designed to introduce you to
 10. **Lambda Functions**
     - Using anonymous functions with `lambda`
 
-## Getting Started
 
-To get started with the course, clone the repository and navigate to the `src` directory. Each lesson is contained in its own folder with a corresponding Python file.
